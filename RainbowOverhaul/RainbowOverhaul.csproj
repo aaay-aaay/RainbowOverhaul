@@ -60,6 +60,7 @@
     <Compile Include="RainbowMod.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RainbowScript.cs" />
+    <Compile Include="FAtlasPatch.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
